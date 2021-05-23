@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885292325276",
+    "project_id": "world-championship-final",
+    "storage_bucket": "world-championship-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885292325276:android:7e51a8422c389aa0971059",
+        "android_client_info": {
+          "package_name": "com.shamaich.worldchampionship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885292325276-2b12s40um65g4e7kpndh2a62dd8igsnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmKS2S0Z_UvCCk9lW6Upft3f94Rg9kHMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885292325276-2b12s40um65g4e7kpndh2a62dd8igsnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

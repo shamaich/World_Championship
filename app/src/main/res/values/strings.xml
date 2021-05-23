@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">World Championship</string>
+    <string name="fragment_welcome_world_championship">World Championship</string>
+    <string name="logo">дщпщ</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Rank</string>
+    <string name="title_dashboard">Gym</string>
+    <string name="title_notifications">Search</string>
+    <string name="title_activity_main2">MainActivity</string>
+</resources>
