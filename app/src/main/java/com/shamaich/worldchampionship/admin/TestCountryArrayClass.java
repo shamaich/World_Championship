@@ -36,12 +36,11 @@ public class TestCountryArrayClass {
                 String[] line = readLine.split(",");
                 //id,countryName,capitalCity,flag,population,score
                 Country country = new Country();
-                country.setId(line[0]);
-                country.setCountryName(line[1]);
-                country.setCapitalCity(line[2]);
-                country.setFlag(line[3]);
-                country.setPopulation(line[4]);
-                country.setScore(line[5]);
+                country.setCountryName(line[0]);
+                country.setCapitalCity(line[1]);
+                country.setFlag(line[2]);
+                country.setPopulation(line[3]);
+                country.setScore(Long.parseLong(line[4]));
 
                 countries.add(country);
             }

@@ -2,17 +2,15 @@ package com.shamaich.worldchampionship.model;
 
 public class Country {
     ///id	countryName	capitalCity	flag	population	votes
-    private String id;
     private String countryName;
     private String capitalCity;
     private String population;
     private String flag;
-    private String score;
+    private long score;
 
     public Country(){}
 
-    public Country(String id, String countryName, String capitalCity, String population, String flag, String votes) {
-        this.id = id;
+    public Country(String countryName, String capitalCity, String population, String flag, long votes) {
         this.countryName = countryName;
         this.capitalCity = capitalCity;
         this.population = population;
@@ -26,14 +24,6 @@ public class Country {
 
     public void setFlag(String flag) {
         this.flag = flag;
-    }
-
-    public String getId() {
-        return id;
-    }
-
-    public void setId(String id) {
-        this.id = id;
     }
 
     public String getCountryName() {
@@ -60,11 +50,11 @@ public class Country {
         this.population = population;
     }
 
-    public String getScore() {
+    public long getScore() {
         return score;
     }
 
-    public void setScore(String score) {
+    public void setScore(long score) {
         this.score = score;
     }
 }

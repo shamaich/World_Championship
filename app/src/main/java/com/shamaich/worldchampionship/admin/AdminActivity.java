@@ -61,12 +61,11 @@ public class AdminActivity extends AppCompatActivity {
                 String[] line = readLine.split(",");
                 //id,countryName,capitalCity,flag,population,score
                 Country country = new Country();
-                country.setId(line[0]);
-                country.setCountryName(line[1]);
-                country.setCapitalCity(line[2]);
-                country.setFlag(line[3]);
-                country.setPopulation(line[4]);
-                country.setScore(line[5]);
+                country.setCountryName(line[0]);
+                country.setCapitalCity(line[1]);
+                country.setFlag(line[2]);
+                country.setPopulation(line[3]);
+                country.setScore(0);
 
                 countries.add(country);
             }

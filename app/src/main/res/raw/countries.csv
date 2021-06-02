@@ -1,232 +1,250 @@
-1,Afghanistan,Kabul,af,32890171,0
-2,Albania,Tiranë (Tirana),al,2845955,0
-3,Algeria,El Djazaïr  (Algiers),dz,44700000,0
-4,American Samoa,Pago Pago,as,56951,0
-5,Andorra,Andorra la Vella,ad,78015,0
-6,Angola,Luanda,ao,32097671,0
-7,Anguilla,The Valley,ai,15000,0
-8,Antigua and Barbuda,St. John's,ag,99337,0
-9,Argentina,Buenos Aires,ar,45808747,0
-10,Armenia,Yerevan,am,2967900,0
-11,Aruba,Oranjestad,aw,111904,0
-12,Australia,Canberra,au,25791323,0
-13,Austria,Wien (Vienna),at,8933346,0
-14,Azerbaijan,Baku,az,10122148,0
-15,Bahamas,Nassau,bs,393450,0
-16,Bahrain,Al-Manamah (Manama),bh,1501635,0
-17,Bangladesh,Dhaka,bd,170605442,0
-18,Barbados,Bridgetown,bb,288000,0
-19,Belarus,Minsk,by,9349645,0
-20,Belgium,Bruxelles-Brussel,be,11560220,0
-21,Belize,Belmopan,bz,419199,0
-22,Benin,Porto-Novo,bj,12506347,0
-23,Bermuda,Hamilton,bm,64055,0
-24,Bhutan,Thimphu,bt,756129,0
-25,Bolivia (Plurinational State of),Sucre,bo,11797257,0
-26,Bosnia and Herzegovina,Sarajevo,ba,3332593,0
-27,Botswana,Gaborone,bw,2410338,0
-28,Brazil,Brasília,br,213088674,0
-29,British Virgin Islands,Road Town,vg,30000,0
-30,Brunei Darussalam,Bandar Seri Begawan,bn,453600,0
-31,Bulgaria,Sofia,bg,6916548,0
-32,Burkina Faso,Ouagadougou,bf,21510181,0
-33,Burundi,Bujumbura,bi,12574571,0
-34,Cabo Verde,Praia,cv,563198,0
-35,Cambodia,Phnum Pénh (Phnom Penh),kh,15552211,0
-36,Cameroon,Yaoundé,cm,24348251,0
-37,Canada,Ottawa-Gatineau,ca,38443464,0
-38,Caribbean Netherlands,Kralendijk,nl,25987,0
-39,Cayman Islands,George Town,ky,65786,0
-40,Central African Republic,Bangui,cf,5633412,0
-41,Chad,N'Djaména,td,16818391,0
-42,Channel Islands,St. Peter Port,uk,170499,0
-43,Chile,Santiago,cl,19678363,0
-44,China,Beijing,cn,1407794600,0
-45,China Hong Kong SAR,Hong Kong,hk,7474200,0
-46,China Macao SAR,Macao,mo,683100,0
-47,China Taiwan Province of China,Taibei,tw,23525623,0
-48,Colombia,Bogotá,co,51049498,0
-49,Comoros,Moroni,km,758316,0
-50,Congo,Brazzaville,cg,5657000,0
-51,Cook Islands,Rarotonga,ck,15342,0
-52,Costa Rica,San José,cr,5163038,0
-53,Côte d'Ivoire,Yamoussoukro,ci,26378274,0
-54,Croatia,Zagreb,hr,4047200,0
-55,Cuba,La Habana (Havana),cu,11193470,0
-56,Curaçao,Willemstad,cw,156223,0
-57,Cyprus,Lefkosia (Nicosia),cy,888005,0
-58,Czech Republic,Praha (Prague),cz,10701777,0
-59,Dem. People's Republic of Korea,P'yongyang,kp,25549604,0
-60,Democratic Republic of the Congo,Kinshasa,cd,105044646,0
-61,Denmark,København (Copenhagen),dk,5840045,0
-62,Djibouti,Djibouti,dj,976107,0
-63,Dominica,Roseau,dm,72000,0
-64,Dominican Republic,Santo Domingo,ddo,10535535,0
-65,Ecuador,Quito,ec,17725096,0
-66,Egypt,Al-Qahirah (Cairo),eg,101824663,0
-67,El Salvador,San Salvador,sv,6825935,0
-68,Equatorial Guinea,Malabo,gq,1505588,0
-69,Eritrea,Asmara,er,3601000,0
-70,Estonia,Tallinn,ee,1329460,0
-71,Ethiopia,Addis Ababa,et,117876000,0
-72,Faeroe Islands,Tórshavn,fo,53108,0
-73,Fiji,Suva,fj,898402,0
-74,Finland,Helsinki,fi,5506915,0
-75,France,Paris,fr,67406000,0
-76,French Guiana,Cayenne,fr,294071,0
-77,French Polynesia,Papeete,pf,279890,0
-78,Gabon,Libreville,ga,2233272,0
-79,Gambia,Banjul,gm,2335504,0
-80,Georgia,Tbilisi,ge,3716858,0
-81,Germany,Berlin,de,83190556,0
-82,Ghana,Accra,gh,30955202,0
-83,Gibraltar,Gibraltar,gi,34003,0
-84,Greece,Athínai (Athens),gr,10718565,0
-85,Greenland,Nuuk (Godthåb),gl,56421,0
-86,Grenada,St.George's,gd,113000,0
-87,Guadeloupe,Basse-Terre,fr,395700,0
-88,Guam,Hagåtña,gu,178306,0
-89,Guatemala,Ciudad de Guatemala (Guatemala City),gt,17109746,0
-90,Guinea,Conakry,gn,12907395,0
-91,Guinea-Bissau,Bissau,gw,1646077,0
-92,Guyana,Georgetown,gy,743699,0
-93,Haiti,Port-au-Prince,ht,11743017,0
-94,Holy See,Vatican City,va,825,0
-95,Honduras,Tegucigalpa,hn,9450711,0
-96,Hungary,Budapest,hu,9730000,0
-97,Iceland,Reykjavík,is,369870,0
-98,India,Delhi,in,1376519831,0
-99,Indonesia,Jakarta,id,271350000,0
-100,Iran (Islamic Republic of),Tehran,ir,84414159,0
-101,Iraq,Baghdad,iq,41190700,0
-102,Ireland,Dublin,ie,4977400,0
-103,Isle of Man,Douglas,im,83314,0
-104,Israel,Jerusalem,il,9340622,0
-105,Italy,Roma (Rome),it,59226539,0
-106,Jamaica,Kingston,jm,2734093,0
-107,Japan,Tokyo,jp,125410000,0
-108,Jordan,Amman,jo,10936824,0
-109,Kazakhstan,Astana,kz,18919024,0
-110,Kenya,Nairobi,ke,47564296,0
-111,Kiribati,Tarawa,ki,120740,0
-112,Kuwait,Al Kuwayt (Kuwait City),kw,4464521,0
-113,Kyrgyzstan,Bishkek,kg,6653600,0
-114,Lao People's Democratic Republic,Vientiane,la,7337783,0
-115,Latvia,Riga,lv,1889000,0
-116,Lebanon,Bayrut (Beirut),lb,6769000,0
-117,Lesotho,Maseru,ls,2007201,0
-118,Liberia,Monrovia,lr,4661010,0
-119,Libya,Tarabulus (Tripoli),ly,6959000,0
-120,Liechtenstein,Vaduz,li,39062,0
-121,Lithuania,Vilnius,lt,2787658,0
-122,Luxembourg,Luxembourg,lu,634730,0
-123,Madagascar,Antananarivo,mg,26923353,0
-124,Malawi,Lilongwe,mw,18898441,0
-125,Malaysia,Kuala Lumpur,my,32770890,0
-126,Maldives,Male,mv,383135,0
-127,Mali,Bamako,ml,20856000,0
-128,Malta,Valletta,mt,514564,0
-129,Marshall Islands,Majuro,mh,54516,0
-130,Martinique,Fort-de-France,fr,375053,0
-131,Mauritania,Nouakchott,mr,4271197,0
-132,Mauritius,Port Louis,mu,1266030,0
-133,Mayotte,Mamoudzou,fr,288926,0
-134,Mexico,Ciudad de México (Mexico City),mx,126014024,0
-135,Micronesia (Fed. States of),Palikir,fm,104468,0
-136,Monaco,Monaco,mc,38350,0
-137,Mongolia,Ulaanbaatar,mn,3375659,0
-138,Montenegro,Podgorica,me,621873,0
-139,Montserrat,Brades Estate,ms,5000,0
-140,Morocco,Rabat,ma,36239530,0
-141,Mozambique,Maputo,mz,30832244,0
-142,Myanmar,Nay Pyi Taw,mm,55294979,0
-143,Namibia,Windhoek,na,2550226,0
-144,Nauru,Nauru,nr,11832,0
-145,Nepal,Kathmandu,np,30378055,0
-146,Netherlands,Amsterdam,nl,17589981,0
-147,New Caledonia,Nouméa,nc,273674,0
-148,New Zealand,Wellington,nz,5126991,0
-149,Nicaragua,Managua,ni,6595674,0
-150,Niger,Niamey,ne,24112753,0
-151,Nigeria,Abuja,ng,211401000,0
-152,Niue,Alofi,nu,1549,0
-153,Northern Mariana Islands,Saipan,mk,5391369,0
-154,Norway,Oslo,no,4507323,0
-155,Oman,Masqat (Muscat),om,225200000,0
-156,Pakistan,Islamabad,pk,17957,0
-157,Palau,Koror,pw,5227193,0
-158,Panama,Ciudad de Panamá (Panama City),pa,4278500,0
-159,Papua New Guinea,Port Moresby,pg,9122994,0
-160,Paraguay,Asunción,py,7353038,0
-161,Peru,Lima,pe,33035304,0
-162,Philippines,Manila,ph,110176132,0
-163,Poland,Warszawa (Warsaw),pl,38230000,0
-164,Portugal,Lisboa (Lisbon),pt,10295909,0
-165,Puerto Rico,San Juan,pr,3285874,0
-166,Qatar,Ad-Dawhah (Doha),qa,2642112,0
-167,Republic of Korea,Seoul,kr,51709098,0
-168,Republic of Moldova,Chi?in?u,md,2640438,0
-169,Réunion,Saint-Denis,fr,858450,0
-170,Romania,Bucuresti (Bucharest),ro,19317984,0
-171,Russian Federation,Moskva (Moscow),ru,146171015,0
-172,Rwanda,Kigali,rw,12955768,0
-173,Saint Helena,Jamestown,sh,4534,0
-174,Saint Kitts and Nevis,Basseterre,kn,54000,0
-175,Saint Lucia,Castries,lc,178696,0
-176,Saint Pierre and Miquelon,Saint-Pierre,pm,5985,0
-177,Saint Vincent and the Grenadines,Kingstown,vc,110696,0
-178,Samoa,Apia,ws,199853,0
-179,San Marino,San Marino,sm,33604,0
-180,Sao Tome and Principe,São Tomé,st,214610,0
-181,Saudi Arabia,Ar-Riyadh (Riyadh),sa,34218169,0
-182,Senegal,Dakar,sn,17223497,0
-183,Serbia,Beograd (Belgrade),rs,6926705,0
-184,Seychelles,Victoria,sc,98963,0
-185,Sierra Leone,Freetown,sl,8297882,0
-186,Singapore,Singapore,sg,5685807,0
-187,Sint Maarten (Dutch part),Philipsburg,sx,40614,0
-188,Slovakia,Bratislava,sk,5459781,0
-189,Slovenia,Ljubljana,si,2108977,0
-190,Solomon Islands,Honiara,sb,728041,0
-191,Somalia,Muqdisho (Mogadishu),so,16360000,0
-192,South Africa,Pretoria,za,59622350,0
-193,South Sudan,Juba,ss,13249924,0
-194,Spain,Madrid,es,47351567,0
-195,Sri Lanka,Colombo,lk,21919000,0
-196,State of Palestine,Al-Quds[East Jerusalem],ps,5159076,0
-197,Sudan,Al-Khartum (Khartoum),sd,43439235,0
-198,Suriname,Paramaribo,sr,590100,0
-199,Swaziland,Mbabane,sz,1136281,0
-200,Sweden,Stockholm,se,8667100,0
-201,Switzerland,Bern,ch,10385347,0
-202,Syrian Arab Republic,Dimashq (Damascus),sy,18276000,0
-203,Tajikistan,Dushanbe,tj,9313800,0
-204,North Macedonia,Skopje,mk,2077132,0
-205,Thailand,Krung Thep (Bangkok),th,66642442,0
-206,Timor-Leste,Dili,tl,1299412,0
-207,Togo,Lomé,tg,7886000,0
-208,Tokelau,Tokelau,tk,1501,0
-209,Tonga,Nuku'alofa,to,99532,0
-210,Trinidad and Tobago,Port of Spain,tt,1366725,0
-211,Tunisia,Tunis,tn,11746695,0
-212,Turkey,Ankara,tr,83614362,0
-213,Turkmenistan,Ashgabat,tm,6118000,0
-214,Turks and Caicos Islands,Cockburn Town,tc,42953,0
-215,Tuvalu,Funafuti,tv,10679,0
-216,Uganda,Kampala,ug,42885900,0
-217,Ukraine,Kyiv (Kiev),ua,41527205,0
-218,United Arab Emirates,Abu Zaby (Abu Dhabi),ae,9503738,0
-219,United Kingdom,London,gb,66796807,0
-220,United Republic of Tanzania,Dodoma,tz,59441988,0
-221,United States of America,Washington D.C.,us,331611270,0
-222,United States Virgin Islands,Charlotte Amalie,vi,104000,0
-223,Uruguay,Montevideo,uy,3554915,0
-224,Uzbekistan,Tashkent,uz,34841801,0
-225,Vanuatu,Port Vila,vu,301295,0
-226,Venezuela (Bolivarian Republic of),Caracas,ve,28705000,0
-227,Viet Nam,Hà Noi,vn,97580000,0
-228,Wallis and Futuna Islands,Matu-Utu,wf,11369,0
-229,Western Sahara,El Aaiún,ma,612000,0
-230,Yemen,Sana'a',ye,30491000,0
-231,Zambia,Lusaka,zm,18400556,0
-232,Zimbabwe,Harare,zw,15790716,0
+countryName,capitalCity,flag,population,score
+Abkhazia,Sukhumi,ab,245424,0
+Afghanistan,Kabul,af,32890171,0
+Åland Islands (Finland),Mariehamn,ax,30237,0
+Albania,Tiranë (Tirana),al,2845955,0
+Algeria,El Djazaïr  (Algiers),dz,44700000,0
+American Samoa (US),Pago Pago,as,56951,0
+Andorra,Andorra la Vella,ad,78015,0
+Angola,Luanda,ao,32097671,0
+Anguilla (UK),The Valley,ai,15000,0
+Antigua and Barbuda,St. John's,ag,99337,0
+Argentina,Buenos Aires,ar,45808747,0
+Armenia,Yerevan,am,2967900,0
+Aruba (Netherlands),Oranjestad,aw,111904,0
+Australia,Canberra,au,25791323,0
+Austria,Wien (Vienna),at,8933346,0
+Azerbaijan,Baku,az,10122148,0
+Bahamas,Nassau,bs,393450,0
+Bahrain,Al-Manamah (Manama),bh,1501635,0
+Bangladesh,Dhaka,bd,170605442,0
+Barbados,Bridgetown,bb,288000,0
+Belarus,Minsk,by,9349645,0
+Belgium,Bruxelles-Brussel,be,11560220,0
+Belize,Belmopan,bz,419199,0
+Benin,Porto-Novo,bj,12506347,0
+Bermuda  (UK),Hamilton,bm,64055,0
+Bhutan,Thimphu,bt,756129,0
+Bolivia,Sucre,bo,11797257,0
+Bosnia and Herzegovina,Sarajevo,ba,3332593,0
+Botswana,Gaborone,bw,2410338,0
+Brazil,Brasília,br,213088674,0
+British Virgin Islands (UK),Road Town,vg,30000,0
+Brunei Darussalam,Bandar Seri Begawan,bn,453600,0
+Bulgaria,Sofia,bg,6916548,0
+Burkina Faso,Ouagadougou,bf,21510181,0
+Burundi,Bujumbura,bi,12574571,0
+Cabo Verde,Praia,cv,563198,0
+Cambodia,Phnom Penh,kh,15552211,0
+Cameroon,Yaoundé,cm,24348251,0
+Canada,Ottawa-Gatineau,ca,38443464,0
+Cape Verde,Praia,cv,563198,0
+Caribbean Netherlands,Kralendijk,nl,25987,0
+Cayman Islands,George Town,ky,65786,0
+Central African Republic,Bangui,cf,5633412,0
+Chad,N'Djaména,td,16818391,0
+Channel Islands,St. Peter Port,uk,170499,0
+Chile,Santiago,cl,19678363,0
+China,Beijing,cn,1407794600,0
+Hong Kong SAR,Hong Kong,hk,7474200,0
+Macao SAR,Macao,mo,683100,0
+Taiwan Province of China,Taibei,tw,23525623,0
+Christmas Island (Australia),Flying Fish Cove,cx,1966,0
+Cocos Islands (Australia),West Island,cc,573,0
+Colombia,Bogotá,co,51049498,0
+Comoros,Moroni,km,758316,0
+Congo,Brazzaville,cg,5657000,0
+Cook Islands (NZ),Rarotonga,ck,15342,0
+Costa Rica,San José,cr,5163038,0
+Côte d'Ivoire,Yamoussoukro,ci,26378274,0
+Croatia,Zagreb,hr,4047200,0
+Cuba,La Habana (Havana),cu,11193470,0
+Curaçao (Netherlands),Willemstad,cw,156223,0
+Cyprus,Lefkosia (Nicosia),cy,888005,0
+Czech Republic,Praha (Prague),cz,10701777,0
+Dem. People's Republic of Korea,Pyongyang,kp,25549604,0
+Democratic Republic of the Congo,Kinshasa,cd,105044646,0
+Denmark,København (Copenhagen),dk,5840045,0
+Djibouti,Djibouti,dj,976107,0
+Dominica,Roseau,dm,72000,0
+Dominican Republic,Santo Domingo,do,10535535,0
+Ecuador,Quito,ec,17725096,0
+Egypt,Al-Qahirah (Cairo),eg,101824663,0
+El Salvador,San Salvador,sv,6825935,0
+Equatorial Guinea,Malabo,gq,1505588,0
+Eritrea,Asmara,er,3601000,0
+Estonia,Tallinn,ee,1329460,0
+Kingdom of Eswatini,Mbabane,sz,1172000,0
+Ethiopia,Addis Ababa,et,117876000,0
+Falkland Islands (UK),Stanley,fk,4000,0
+Faroe Islands (Denmark),Tórshavn,fo,53108,0
+Fiji,Suva,fj,898402,0
+Finland,Helsinki,fi,5506915,0
+France,Paris,fr,67406000,0
+French Guiana,Cayenne,fr,294071,0
+French Polynesia,Papeete,pf,279890,0
+Gabon,Libreville,ga,2233272,0
+Gambia,Banjul,gm,2335504,0
+Georgia,Tbilisi,ge,3716858,0
+Germany,Berlin,de,83190556,0
+Ghana,Accra,gh,30955202,0
+Gibraltar (UK),Gibraltar,gi,34003,0
+Greece,Athínai (Athens),gr,10718565,0
+Greenland (Denmark),Nuuk (Godthåb),gl,56421,0
+Grenada,St.George's,gd,113000,0
+Guadeloupe,Basse-Terre,fr,395700,0
+Guam,Hagåtña,gu,178306,0
+Guatemala,Ciudad de Guatemala (Guatemala City),gt,17109746,0
+Guernsey (UK),Saint Peter Port,gg,63124,0
+Guinea,Conakry,gn,12907395,0
+Guinea-Bissau,Bissau,gw,1646077,0
+Guyana,Georgetown,gy,743699,0
+Haiti,Port-au-Prince,ht,11743017,0
+Holy See,Vatican City,va,825,0
+Honduras,Tegucigalpa,hn,9450711,0
+Hungary,Budapest,hu,9730000,0
+Iceland,Reykjavík,is,369870,0
+India,Delhi,in,1376519831,0
+Indonesia,Jakarta,id,271350000,0
+Iran,Tehran,ir,84414159,0
+Iraq,Baghdad,iq,41190700,0
+Ireland,Dublin,ie,4977400,0
+Isle of Man (UK),Douglas,im,83314,0
+Israel,Jerusalem,il,9340622,0
+Italy,Roma (Rome),it,59226539,0
+Jamaica,Kingston,jm,2734093,0
+Japan,Tokyo,jp,125410000,0
+Jersey (UK),Saint Helier,je,107800,0
+Jordan,Amman,jo,10936824,0
+Kazakhstan,Astana,kz,18919024,0
+Kenya,Nairobi,ke,47564296,0
+Kiribati,Tarawa,ki,120740,0
+Kosovo,Pristina,xk,1782115,0
+Kuwait,Al Kuwayt (Kuwait City),kw,4464521,0
+Kyrgyzstan,Bishkek,kg,6653600,0
+Lao People's Democratic Republic,Vientiane,la,7337783,0
+Latvia,Riga,lv,1889000,0
+Lebanon,Bayrut (Beirut),lb,6769000,0
+Lesotho,Maseru,ls,2007201,0
+Liberia,Monrovia,lr,4661010,0
+Libya,Tarabulus (Tripoli),ly,6959000,0
+Liechtenstein,Vaduz,li,39062,0
+Lithuania,Vilnius,lt,2787658,0
+Luxembourg,Luxembourg,lu,634730,0
+Madagascar,Antananarivo,mg,26923353,0
+Malawi,Lilongwe,mw,18898441,0
+Malaysia,Kuala Lumpur,my,32770890,0
+Maldives,Male,mv,383135,0
+Mali,Bamako,ml,20856000,0
+Malta,Valletta,mt,514564,0
+Marshall Islands,Majuro,mh,54516,0
+Martinique,Fort-de-France,fr,375053,0
+Mauritania,Nouakchott,mr,4271197,0
+Mauritius,Port Louis,mu,1266030,0
+Mayotte,Mamoudzou,fr,288926,0
+Mexico,Ciudad de México (Mexico City),mx,126014024,0
+Micronesia,Palikir,fm,104468,0
+Monaco,Monaco,mc,38350,0
+Mongolia,Ulaanbaatar,mn,3375659,0
+Montenegro,Podgorica,me,621873,0
+Montserrat (UK),Brades Estate,ms,5000,0
+Morocco,Rabat,ma,36239530,0
+Mozambique,Maputo,mz,30832244,0
+Myanmar,Nay Pyi Taw,mm,55294979,0
+Namibia,Windhoek,na,2550226,0
+Nauru,Nauru,nr,11832,0
+Nepal,Kathmandu,np,30378055,0
+Netherlands,Amsterdam,nl,17589981,0
+New Caledonia (France),Nouméa,nc,273674,0
+New Zealand,Wellington,nz,5126991,0
+Nicaragua,Managua,ni,6595674,0
+Niger,Niamey,ne,24112753,0
+Nigeria,Abuja,ng,211401000,0
+Niue (NZ),Alofi,nu,1549,0
+Norfolk Island (Australia),Kingston,nf,1734,0
+Northern Mariana Islands,Saipan,mk,5391369,0
+Northern Cyprus,North Nicosia,tr,326000,0
+Norway,Oslo,no,4507323,0
+Oman,Masqat (Muscat),om,225200000,0
+Pakistan,Islamabad,pk,17957,0
+Palau,Koror,pw,5227193,0
+Panama,Ciudad de Panamá (Panama City),pa,4278500,0
+Papua New Guinea,Port Moresby,pg,9122994,0
+Paraguay,Asunción,py,7353038,0
+Peru,Lima,pe,33035304,0
+Philippines,Manila,ph,110176132,0
+Poland,Warszawa (Warsaw),pl,38230000,0
+Portugal,Lisboa (Lisbon),pt,10295909,0
+Puerto Rico,San Juan,pr,3285874,0
+Qatar,Ad-Dawhah (Doha),qa,2642112,0
+Republic of Artsakh,Stepanakert,am,148900,0
+Republic of Korea,Seoul,kr,51709098,0
+Republic of Moldova,Kishinev,md,2640438,0
+Réunion,Saint-Denis,fr,858450,0
+Romania,Bucuresti (Bucharest),ro,19317984,0
+Russian Federation,Moskva (Moscow),ru,146171015,0
+Rwanda,Kigali,rw,12955768,0
+Saint Barthélemy (France),Gustavia,bl,10124,0
+Saint Helena,Jamestown,sh,4534,0
+Saint Kitts and Nevis,Basseterre,kn,54000,0
+Saint Lucia,Castries,lc,178696,0
+Saint Martin (France),Marigot,mf,34065,0
+Saint Pierre and Miquelon,Saint-Pierre,pm,5985,0
+Saint Vincent and the Grenadines,Kingstown,vc,110696,0
+Samoa,Apia,ws,199853,0
+San Marino,San Marino,sm,33604,0
+Sao Tome and Principe,Saint Thomas,st,214610,0
+Saudi Arabia,Ar-Riyadh (Riyadh),sa,34218169,0
+Senegal,Dakar,sn,17223497,0
+Serbia,Beograd (Belgrade),rs,6926705,0
+Seychelles,Victoria,sc,98963,0
+Sierra Leone,Freetown,sl,8297882,0
+Singapore,Singapore,sg,5685807,0
+Sint Maarten (Dutch part),Philipsburg,sx,40614,0
+Slovakia,Bratislava,sk,5459781,0
+Slovenia,Ljubljana,si,2108977,0
+Solomon Islands,Honiara,sb,728041,0
+Somalia,Muqdisho (Mogadishu),so,16360000,0
+South Africa,Pretoria,za,59622350,0
+South Ossetia,Tskhinvali,os,53532,0
+South Sudan,Juba,ss,13249924,0
+Spain,Madrid,es,47351567,0
+Sri Lanka,Colombo,lk,21919000,0
+State of Palestine,Al-Quds[East Jerusalem],ps,5159076,0
+Sudan,Al-Khartum (Khartoum),sd,43439235,0
+Suriname,Paramaribo,sr,590100,0
+Swaziland,Mbabane,sz,1136281,0
+Sweden,Stockholm,se,8667100,0
+Switzerland,Bern,ch,10385347,0
+Syrian Arab Republic,Dimashq (Damascus),sy,18276000,0
+Tajikistan,Dushanbe,tj,9313800,0
+North Macedonia,Skopje,mk,2077132,0
+Thailand,Krung Thep (Bangkok),th,66642442,0
+Timor-Leste,Dili,tl,1299412,0
+Togo,Lomé,tg,7886000,0
+Transnistria,Tiraspol,mdr,469000,0
+Tokelau,Tokelau,tk,1501,0
+Tonga,Nuku'alofa,to,99532,0
+Trinidad and Tobago,Port of Spain,tt,1366725,0
+Tunisia,Tunis,tn,11746695,0
+Turkey,Ankara,tr,83614362,0
+Turkmenistan,Ashgabat,tm,6118000,0
+Turks and Caicos Islands,Cockburn Town,tc,42953,0
+Tuvalu,Funafuti,tv,10679,0
+Uganda,Kampala,ug,42885900,0
+Ukraine,Kyiv (Kiev),ua,41527205,0
+United Arab Emirates,Abu Zaby (Abu Dhabi),ae,9503738,0
+United Kingdom,London,gb,66796807,0
+United Republic of Tanzania,Dodoma,tz,59441988,0
+United States of America,"Washington, D.C.",us,331611270,0
+United States Virgin Islands,Charlotte Amalie,vi,104000,0
+Uruguay,Montevideo,uy,3554915,0
+Uzbekistan,Tashkent,uz,34841801,0
+Vanuatu,Port Vila,vu,301295,0
+Venezuela,Caracas,ve,28705000,0
+Viet Nam,Hà Noi,vn,97580000,0
+Wallis and Futuna (France),Matu-Utu,wf,11369,0
+Western Sahara,El Aaiún,ma,612000,0
+Yemen,Sanaa,ye,30491000,0
+Zambia,Lusaka,zm,18400556,0
+Zimbabwe,Harare,zw,15790716,0

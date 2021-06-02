@@ -6,9 +6,13 @@
         <variable
             name="country"
             type="com.shamaich.worldchampionship.model.Country" />
+        <variable
+            name="listener"
+            type="com.shamaich.worldchampionship.view.CountryClickListener" />
     </data>
 
 <LinearLayout
+    android:id="@+id/countryLayout"
     android:layout_width="match_parent"
     android:layout_height="100dp">
 
@@ -27,7 +31,7 @@
         android:orientation="vertical">
         <TextView
             android:id="@+id/country_name"
-            android:text="@{country.countryName}"
+            android:text="@{String.valueOf(country.countryName)}"
             style="@style/Title"
             android:padding="5dp"
             android:layout_width="match_parent"
@@ -62,17 +66,19 @@
             android:gravity="center"
             android:layout_height="50dp"
             style="@style/Title"
-            android:text="@{country.score}"
+            android:text="@{String.valueOf(country.score)}"
             />
 
         <ImageButton
+            android:id="@+id/country_image_button"
+            android:onClick="@{() -> listener.OnCountryClicked(country)}"
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:src="@drawable/add_button"/>
+            android:src="@drawable/add_button"
+            />
 
     </LinearLayout>
 
 
 </LinearLayout>
-
 </layout>

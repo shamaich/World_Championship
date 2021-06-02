@@ -79,7 +79,7 @@ public class HomeFragment extends Fragment {
 
     private void setUpRecyclerView(View view) {
 
-        Query query = countriesRef.orderBy("score", Query.Direction.DESCENDING).orderBy("countryName").limit(10);
+        Query query = countriesRef.orderBy("score", Query.Direction.DESCENDING).orderBy("countryName").limit(100);
 
         FirestoreRecyclerOptions<Country> options =
                 new FirestoreRecyclerOptions.Builder<Country>()
