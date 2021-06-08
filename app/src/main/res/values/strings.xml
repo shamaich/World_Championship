@@ -4,7 +4,10 @@
     <string name="logo">дщпщ</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="title_home">Rank</string>
-    <string name="title_dashboard">Gym</string>
+    <string name="title_game">Game</string>
     <string name="title_notifications">Search</string>
     <string name="title_activity_main2">MainActivity</string>
+    <string name="button_game_begin">Begin</string>
+    <string name="text_capital_cities">Hey traveler, Learn the capital cities around the world and earn points to support your favorite country.</string>
+    <string name="text_game_flags">Hey pilgrim, how about to guess flags to boost the rank of your favorite country to the moon?</string>
 </resources>

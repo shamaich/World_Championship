@@ -20,8 +20,8 @@
 
     <ImageView
         android:id="@+id/image_view_flag"
-        android:layout_width= "wrap_content"
-        android:layout_height="match_parent" />
+        android:layout_width= "100dp"
+        android:layout_height="100dp" />
 
     <LinearLayout
         android:layout_width="0dp"
@@ -29,8 +29,10 @@
         android:layout_weight="2"
         android:gravity="center_vertical"
         android:orientation="vertical">
+
         <TextView
             android:id="@+id/country_name"
+            android:lines="2"
             android:text="@{String.valueOf(country.countryName)}"
             style="@style/Title"
             android:padding="5dp"
@@ -39,6 +41,7 @@
         <TextView
             android:id="@+id/country_capital_city"
             android:text="@{`Capital: ` + country.capitalCity}"
+            android:breakStrategy="simple"
             style="@style/Text"
             android:padding="5dp"
             android:layout_width="match_parent"
@@ -66,7 +69,7 @@
             android:gravity="center"
             android:layout_height="50dp"
             style="@style/Title"
-            android:text="@{String.valueOf(country.score)}"
+            android:text="@{Long.toString(country.score)}"
             />
 
         <ImageButton

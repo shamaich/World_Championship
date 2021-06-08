@@ -1,4 +1,4 @@
-package com.shamaich.worldchampionship.view.ui.dashboard;
+package com.shamaich.worldchampionship.view.ui.game;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
